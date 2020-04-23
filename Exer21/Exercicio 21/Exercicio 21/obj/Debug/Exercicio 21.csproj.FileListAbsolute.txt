@@ -1,0 +1,10 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\bin\Debug\Exercicio 21.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\bin\Debug\Exercicio 21.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\bin\Debug\Exercicio 21.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio_21.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio_21.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio 21.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio 21.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio 21.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio 21.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer21\Exercicio 21\Exercicio 21\obj\Debug\Exercicio 21.csproj.CoreCompileInputs.cache

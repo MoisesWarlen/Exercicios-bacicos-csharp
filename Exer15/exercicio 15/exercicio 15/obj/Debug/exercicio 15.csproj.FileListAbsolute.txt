@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\bin\Debug\exercicio 15.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\bin\Debug\exercicio 15.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\bin\Debug\exercicio 15.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio 15.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio_15.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio 15.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio 15.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio 15.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer15\exercicio 15\exercicio 15\obj\Debug\exercicio_15.Exercicio15.resources

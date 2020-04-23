@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\bin\Debug\Exercicio 12.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio_12.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio_12.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer12\Exercicio 12\Exercicio 12\obj\Debug\Exercicio 12.pdb

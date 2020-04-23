@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\bin\Debug\Exercicio19.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\bin\Debug\Exercicio19.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\bin\Debug\Exercicio19.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.Exercicio19.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer19\Exercicio19\Exercicio19\obj\Debug\Exercicio19.pdb

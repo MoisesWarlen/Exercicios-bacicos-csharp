@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\bin\Debug\exercicio7.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\bin\Debug\exercicio7.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\bin\Debug\exercicio7.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer7\exercicio7\exercicio7\obj\Debug\exercicio7.pdb

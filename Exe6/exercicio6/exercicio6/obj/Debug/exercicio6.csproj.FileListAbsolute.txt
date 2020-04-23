@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\bin\Debug\exercicio6.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\bin\Debug\exercicio6.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe6\exercicio6\exercicio6\obj\Debug\exercicio6.pdb

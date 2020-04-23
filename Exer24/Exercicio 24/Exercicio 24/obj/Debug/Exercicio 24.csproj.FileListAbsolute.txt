@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\bin\Debug\Exercicio 24.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\bin\Debug\Exercicio 24.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\bin\Debug\Exercicio 24.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio 24.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio_24.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio_24.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio 24.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio 24.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer24\Exercicio 24\Exercicio 24\obj\Debug\Exercicio 24.pdb

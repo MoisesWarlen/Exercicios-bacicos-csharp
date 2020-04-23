@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\bin\Debug\Exercicio22.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\bin\Debug\Exercicio22.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\bin\Debug\Exercicio22.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer22\Exercicio22\Exercicio22\obj\Debug\Exercicio22.pdb

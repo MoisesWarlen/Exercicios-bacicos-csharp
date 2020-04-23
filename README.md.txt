@@ -1,0 +1,1 @@
+Nesta pasta contém varios exercicios do curso de c# basico.

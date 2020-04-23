@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\bin\Debug\Exercicio20.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\bin\Debug\Exercicio20.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\bin\Debug\Exercicio20.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer20\Exercicio20\Exercicio20\obj\Debug\Exercicio20.pdb

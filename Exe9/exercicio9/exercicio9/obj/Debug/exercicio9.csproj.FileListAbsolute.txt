@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\bin\Debug\exercicio9.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe9\exercicio9\exercicio9\obj\Debug\exercicio9.pdb

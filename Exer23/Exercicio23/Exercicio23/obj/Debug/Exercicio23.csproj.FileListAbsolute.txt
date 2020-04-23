@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\bin\Debug\Exercicio23.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\bin\Debug\Exercicio23.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\bin\Debug\Exercicio23.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.Exercicio23.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer23\Exercicio23\Exercicio23\obj\Debug\Exercicio23.pdb

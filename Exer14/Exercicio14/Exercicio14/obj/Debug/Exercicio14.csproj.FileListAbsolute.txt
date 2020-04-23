@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\bin\Debug\Exercicio14.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer14\Exercicio14\Exercicio14\obj\Debug\Exercicio14.pdb

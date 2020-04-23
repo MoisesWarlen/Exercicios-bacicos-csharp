@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\bin\Debug\Exercicio17.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exer17\Exercicio17\Exercicio17\obj\Debug\Exercicio17.csprojResolveAssemblyReference.cache

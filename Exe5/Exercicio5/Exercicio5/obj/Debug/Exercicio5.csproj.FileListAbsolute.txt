@@ -1,0 +1,10 @@
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.Form1.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.Properties.Resources.resources
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\exercicio de c#\Exe5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
